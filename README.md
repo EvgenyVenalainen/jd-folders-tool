@@ -2,7 +2,7 @@
 
 ___Johnny.Decimal folders' normalization tool___
 
-This application was intended to quickly change folder names according to JD system; a user could easily change names of folders and not keep the correspondence between different folder levels. The application being launched inside the root folder will recover folder name consistency.
+This application was intended to quickly change a number in the folder names according to JD system; a user could easily change names of folders and not keep the correspondence between different folder levels. The application being launched inside the root folder will recover folder name consistency.
 
 
 
