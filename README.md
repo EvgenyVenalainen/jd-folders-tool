@@ -19,16 +19,15 @@ This application was intended to quickly change a number in the folder names acc
 
 ## Index file
 
-_**Index.md** will be automatically generated in the root folder or inside **Obsidian Vault** folder in case it persists inside the root one._
+**Index.md** will be automatically generated in the root folder or inside **.\Obsidian Vault** subfolder in case it persists inside the root one.
 
 
 
 ![Index.md](3index.png)
 
 
+## A chart of folders size
 
-## A chart of folders size 
-
-_The **Obsidian** application with **TinyChart** plugin is required to view this chart at the end of index.md._
+The [Obsidian](https://obsidian.md/) application with [TinyChart](https://github.com/alincoop/obsidian-tinychart) plugin is required to view this chart (MB) at the end of **index.md**.
 
 ![Chart](4tinychart.png)
