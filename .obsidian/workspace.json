@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e27264b1a84a4dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b8f5aa1d0474af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e9177c6131554b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc13e29d358ad4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df14410cbeaea41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24cf87d03a8c381",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d0d38b8bd7fdd0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2f1559b4485873a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96ab39ffc4ccab1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed1a1816d157472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5b283851c8814bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8565bc44d2b1dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e52fe3f15fe506e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abfbe7a98d202d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75e9177c6131554b",
+  "lastOpenFiles": [
+    "70      russia/75Zabaykalsky Krai/12Chita/Коллаж_Чита.jpg",
+    "70      russia/75Zabaykalsky Krai/12Chita",
+    "70      russia/10karelia/88.1Kondopoga",
+    "70      russia/10karelia/66.55Olonets",
+    "70      russia/10karelia/33Petrozavodsk",
+    "70      russia/10karelia/2Kem'",
+    "70      russia/75Zabaykalsky Krai",
+    "70      russia/31   Belgorod Oblast",
+    "70      russia/10karelia",
+    "70      russia",
+    "61-65Asia",
+    "2europe/32   greece/0Thessaloniki/Thessalonica_Montage_L.jpg",
+    "2europe/1turkey/1Istanbul/Turkey-3019_-_Hagia_Sophia_(2216460729).jpg",
+    "2europe/1turkey/1Istanbul/The Bagcilar district of Istanbul.jpg",
+    "2europe/1turkey/1Istanbul/Istanbul_and_Bosporus_big.jpg",
+    "2europe/1turkey/1Istanbul/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+    "2europe/1turkey/12ankara/Ankara_Montage_2020.jpg",
+    "2europe/1turkey/0/Герб_Стамбула.jpg",
+    "2europe/1turkey/0/tempus.md",
+    "2europe/1turkey/0/readme.md",
+    "2europe/1turkey/0/Flag_of_Turkey.svg.png",
+    "1      north America/2Canada/11.00 Quebec/Quebec_City_Montage.png",
+    "1      north America/21     USA/45.14Seattle/Seattle_Collage_White.jpg",
+    "20-29 Europe/21TURK~1/21.00/tempus.md",
+    "20-29 Europe/21 Turkey/21.00/readme.md",
+    "index.md",
+    "2europe/1turkey/0/index.md"
+  ]
+}
