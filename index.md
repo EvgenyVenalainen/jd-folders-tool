@@ -1,22 +1,29 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(26&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C9</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(39'664&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C10</span>
 ---
-## 10-19 North America [(1&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
-### 11 USA [(1&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
+## 10-19 North America [(1'790&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
+### 11 USA [(1'496&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
 > [!example]- Склад
-11.11 New York [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.11 New York>)
-11.12 Chicago [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.12 Chicago>)
-11.13 Philadelphia [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.13 Philadelphia>)
-11.14 Seattle [(1,5&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.14 Seattle>)
+11.11 New York [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.11 New York>)
+11.12 Chicago [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.12 Chicago>)
+11.13 Philadelphia [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.13 Philadelphia>)
+11.14 Seattle [(1'496,9&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.14 Seattle>)
 
-### 12 Canada [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada>)
+### 12 Canada [(258&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada>)
 > [!example]- Склад
-12.00 Quebec [(0,3&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada\12.00 Quebec>)
+12.00 Quebec [(258,7&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada\12.00 Quebec>)
 
-### 13 Cuba [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba>)
-### 14 Mexico [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico>)
+### 13 Cuba [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba>)
+### 14 Mexico [(35&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico>)
+> [!example]- Склад
+14.01 Teotihuacan [(35,2&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico\14.01 Teotihuacan>)
+
 ---
-## 20-29 Europe [(1&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
-### 21 Turkey [(1&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
+## 20-29 Europe [(2'689&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
+### 20 England [(674&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
+> [!example]- Склад
+20.15 Bristol [(674,6&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
+
+### 21 Turkey [(1'699&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
 > [!tip]- Вид
 ![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Flag_of_Turkey.svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Герб_Стамбула.jpg>)&nbsp;
 
@@ -46,35 +53,35 @@
 >```
 
 > [!example]- Склад
-21.00 [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00>)
-21.01 Istanbul [(1,3&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.01 Istanbul>)
-21.12 Ankara [(0,4&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.12 Ankara>)
+21.00 [(9,3&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00>)
+21.01 Istanbul [(1'305,9&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.01 Istanbul>)
+21.12 Ankara [(384,6&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.12 Ankara>)
 
-### 22 Greece [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece>)
+### 22 Greece [(315&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece>)
 > [!example]- Склад
-22.00 Thessaloniki [(0,3&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece\22.00 Thessaloniki>)
+22.00 Thessaloniki [(315,6&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece\22.00 Thessaloniki>)
 
 ---
-## 30-39 Australasia [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia>)
+## 30-39 Australasia [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia>)
 ---
-## 40-49 Latin America [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\40-49 Latin America>)
+## 40-49 Latin America [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\40-49 Latin America>)
 ---
-## 50-59 Africa [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa>)
+## 50-59 Africa [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa>)
 ---
-## 60-69 Asia [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia>)
+## 60-69 Asia [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia>)
 ---
-## 70-79 Russia [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia>)
-### 70 Karelia [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia>)
+## 70-79 Russia [(999&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia>)
+### 70 Karelia [(914&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia>)
 > [!example]- Склад
-70.01 Kondopoga [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.01 Kondopoga>)
-70.02 Kem' [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.02 Kem'>)
-70.33 Petrozavodsk [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.33 Petrozavodsk>)
-70.55 Olonets [(0,0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.55 Olonets>)
+70.01 Kondopoga [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.01 Kondopoga>)
+70.02 Kem' [(914,4&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.02 Kem'>)
+70.33 Petrozavodsk [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.33 Petrozavodsk>)
+70.55 Olonets [(0,0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\70 Karelia\70.55 Olonets>)
 
-### 71 Belgorod Oblast [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\71 Belgorod Oblast>)
-### 75 Zabaykalsky Krai [(0&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\75 Zabaykalsky Krai>)
+### 71 Belgorod Oblast [(0&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\71 Belgorod Oblast>)
+### 75 Zabaykalsky Krai [(85&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\75 Zabaykalsky Krai>)
 > [!example]- Склад
-75.12 Chita [(0,1&nbsp;МБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\75 Zabaykalsky Krai\75.12 Chita>)
+75.12 Chita [(85,5&nbsp;КБ)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia\75 Zabaykalsky Krai\75.12 Chita>)
 
 
 
@@ -82,29 +89,31 @@
 
 # Chart of categories
 ```tinychart
-11 USA, 1
-12 Canada, 0
+11 USA, 1496
+12 Canada, 258
 13 Cuba, 0
-14 Mexico, 0
-21 Turkey, 1
-22 Greece, 0
-70 Karelia, 0
+14 Mexico, 35
+20 England, 674
+21 Turkey, 1699
+22 Greece, 315
+70 Karelia, 914
 71 Belgorod Oblast, 0
-75 Zabaykalsky Krai, 0
+75 Zabaykalsky Krai, 85
 ```
 
 
 ```mermaid
 pie title Pie chart
-"11 USA" : 1.5
-"12 Canada" : 0.3
+"11 USA" : 1496.9
+"12 Canada" : 258.7
 "13 Cuba" : 0.0
-"14 Mexico" : 0.0
-"21 Turkey" : 1.7
-"22 Greece" : 0.3
-"70 Karelia" : 0.0
+"14 Mexico" : 35.2
+"20 England" : 674.6
+"21 Turkey" : 1699.8
+"22 Greece" : 315.6
+"70 Karelia" : 914.4
 "71 Belgorod Oblast" : 0.0
-"75 Zabaykalsky Krai" : 0.1
+"75 Zabaykalsky Krai" : 85.5
 ```
 ---
 ![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\index.md.jpg>)
