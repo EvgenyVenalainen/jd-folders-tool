@@ -1,4 +1,4 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(69'470&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(78'043&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A8</span>/<span style="color:blue">C15</span>
 ---
 ## 10-19 North America [(1'808&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -30,24 +30,27 @@
 14.01 Teotihuacan [(35.2&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico\14.01 Teotihuacan>)
 
 ---
-## 20-29 Europe [(2'690&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
-### 20 England [(674&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
+## 20-29 Europe [(0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
+### 20 England [(0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
+---
+## 2europe [(2'690&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe>)
+### 20 England [(674&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\20 England>)
 > [!example]- Store
-20.15 Bristol [(674.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
+20.15 Bristol [(674.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\20 England\20.15 Bristol>)
 
-### 21 Turkey [(1'699&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
+### 21 Turkey [(1'699&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey>)
 > [!tip]- Look
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Flag_of_Turkey.svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Герб_Стамбула.jpg>)&nbsp;
+![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey\21.00\Flag_of_Turkey.svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey\21.00\Герб_Стамбула.jpg>)&nbsp;
 
 > [!info]- Point
-> [[20-29 Europe/21 Turkey/21.00/readme|readme>>]]
+> [[2europe/21 Turkey/21.00/readme|readme>>]]
 ># Türkiye
 >
 >**Türkiye**, resmî adıyla ***Türkiye Cumhuriyeti***, topraklarının büyük bölümü Batı Asya'da Anadolu'da, diğer bir bölümü ise Güneydoğu Avrupa'nın uzantısı Doğu Trakya'da olan kıtalararası bir ülkedir. Batıda Bulgaristan ve Yunanistan, doğuda Gürcistan, Ermenistan, İran ve Azerbaycan, güneyde ise Irak ve Suriye ile sınır komşusudur. Güneyini Kıbrıs ve Akdeniz, batısını Ege Denizi, kuzeyini ise Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu'yu Trakya'dan, yani Asya'yı Avrupa'dan ayırır. Resmî olarak laik bir devlet olan Türkiye'de nüfusun çoğunluğu Müslüman'dır. Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. İstanbul ise, Türkiye'nin en büyük şehri, ekonomik merkezi ve aynı zamanda Avrupa'nın en büyük şehridir.
 >
 
 > [!danger]- Time
-> [[20-29 Europe/21 Turkey/21.00/tempus|tempus>>]]
+> [[2europe/21 Turkey/21.00/tempus|tempus>>]]
 ># Ottoman Empire
 >
 >```mermaid
@@ -66,13 +69,13 @@
 >```
 
 > [!example]- Store
-21.00 [(9.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00>)
-21.01 Istanbul [(1'305.9&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.01 Istanbul>)
-21.12 Ankara [(384.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.12 Ankara>)
+21.00 [(9.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey\21.00>)
+21.01 Istanbul [(1'305.9&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey\21.01 Istanbul>)
+21.12 Ankara [(384.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\21 Turkey\21.12 Ankara>)
 
-### 22 Greece [(315&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece>)
+### 22 Greece [(315&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\22 Greece>)
 > [!example]- Store
-22.00 Thessaloniki [(315.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece\22.00 Thessaloniki>)
+22.00 Thessaloniki [(315.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\2europe\22 Greece\22.00 Thessaloniki>)
 
 ---
 ## 30-39 Australasia [(173&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia>)
@@ -104,7 +107,7 @@
 ### 69 China [(0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia\69 China>)
 > [!danger]- Time
 > [[60-69 Asia/69 China/69.00/tempus|tempus>>]]
-># Ottoman Empire
+># China: from late imperial to modern
 >
 >```mermaid
 >gantt
@@ -151,6 +154,7 @@
 12 Canada, 258
 13 Cuba, 14
 14 Mexico, 35
+20 England, 0
 20 England, 674
 21 Turkey, 1699
 22 Greece, 315
@@ -170,6 +174,7 @@ pie title Pie chart
 "12 Canada" : 258.7
 "13 Cuba" : 14.8
 "14 Mexico" : 35.2
+"20 England" : 0.0
 "20 England" : 674.6
 "21 Turkey" : 1699.8
 "22 Greece" : 315.6
