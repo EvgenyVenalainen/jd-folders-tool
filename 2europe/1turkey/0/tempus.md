@@ -4,6 +4,7 @@
 gantt
         title Ottoman Empire time-line
         dateFormat  YYYY
+		axisFormat	%Y
         section Empire
         Rise						:a1, 1299, 1453
         Expansion and peak			:a2, after a1, 1566

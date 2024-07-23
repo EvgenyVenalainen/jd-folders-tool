@@ -1,4 +1,4 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(58'086&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(69'470&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
 ---
 ## 10-19 North America [(1'808&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -30,7 +30,7 @@
 14.01 Teotihuacan [(35.2&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico\14.01 Teotihuacan>)
 
 ---
-## 20-29 Europe [(2'689&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
+## 20-29 Europe [(2'690&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
 ### 20 England [(674&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
 > [!example]- Store
 20.15 Bristol [(674.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
@@ -54,6 +54,7 @@
 >gantt
 >        title Ottoman Empire time-line
 >        dateFormat  YYYY
+>		axisFormat	%Y
 >        section Empire
 >        Rise						:a1, 1299, 1453
 >        Expansion and peak			:a2, after a1, 1566
