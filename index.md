@@ -1,4 +1,4 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(26'888&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+# <span style="color:green">Johnny.Decimal</span> [(26'888&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
 ---
 ## 10-19 North America [(1'808&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -20,7 +20,7 @@
 
 ### 13 Cuba [(14&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba>)
 > [!tip]- Look
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba\13.00\Coat_of_arms_of_Cuba.svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba\13.00\Flag_of_Cuba.svg.png>)&nbsp;
+![](<10-19 North America/13 Cuba/13.00/Coat_of_arms_of_Cuba.svg.png>)&nbsp;![](<10-19 North America/13 Cuba/13.00/Flag_of_Cuba.svg.png>)&nbsp;
 
 > [!example]- Store
 13.00 [(14.8&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba\13.00>)
@@ -37,7 +37,7 @@
 
 ### 21 Turkey [(1'699&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
 > [!tip]- Look
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Flag_of_Turkey.svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00\Герб_Стамбула.jpg>)&nbsp;
+![](<20-29 Europe/21 Turkey/21.00/Flag_of_Turkey.svg.png>)&nbsp;![](<20-29 Europe/21 Turkey/21.00/Герб_Стамбула.jpg>)&nbsp;
 
 > [!info]- Point
 > [[20-29 Europe/21 Turkey/21.00/readme|readme>>]]
@@ -78,7 +78,7 @@
 ## 30-39 Australasia [(173&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia>)
 ### 31 Australia [(173&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia\31 Australia>)
 > [!tip]- Look
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia\31 Australia\31.00\Landing_of_Lieutenant_James_Cook_at_Botany_Bay,_29_April_1770_(painting_by_E_Phillips_Fox).jpg>)&nbsp;
+![](<30-39 Australasia/31 Australia/31.00/Landing_of_Lieutenant_James_Cook_at_Botany_Bay,_29_April_1770_(painting_by_E_Phillips_Fox).jpg>)&nbsp;
 
 > [!example]- Store
 31.00 [(173.8&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia\31 Australia\31.00>)
@@ -93,7 +93,7 @@
 ## 50-59 Africa [(204&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa>)
 ### 50 Rhodesia [(204&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa\50 Rhodesia>)
 > [!tip]- Look
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa\50 Rhodesia\50.00\Coat_of_arms_of_Southern_Rhodesia_(1924–1980).svg.png>)&nbsp;![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa\50 Rhodesia\50.00\Flag_of_Rhodesia_(1968–1979).svg.png>)&nbsp;
+![](<50-59 Africa/50 Rhodesia/50.00/Coat_of_arms_of_Southern_Rhodesia_(1924–1980).svg.png>)&nbsp;![](<50-59 Africa/50 Rhodesia/50.00/Flag_of_Rhodesia_(1968–1979).svg.png>)&nbsp;
 
 > [!example]- Store
 50.00 [(22.4&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\50-59 Africa\50 Rhodesia\50.00>)
@@ -182,4 +182,4 @@ pie title Pie chart
 "75 Zabaykalsky Krai" : 85.5
 ```
 ---
-![](<C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\index.md.jpg>)
+![](index.jpg>)
