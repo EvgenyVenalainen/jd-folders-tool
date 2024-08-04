@@ -1,4 +1,4 @@
-# <span style="color:green">Johnny.Decimal</span> [(26'888&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(26'889&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
 ---
 ## 10-19 North America [(1'808&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -102,6 +102,15 @@
 ---
 ## 60-69 Asia [(0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia>)
 ### 69 China [(0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia\69 China>)
+> [!abstract]- Cloud
+> [[60-69 Asia/69 China/69.00/nimbus|nimbus>>]]
+># Cloud storage
+>
+>https://drive.google.com/
+>https://www.dropbox.com/
+>https://mega.nz/
+>
+
 > [!danger]- Time
 > [[60-69 Asia/69 China/69.00/tempus|tempus>>]]
 ># China: from late imperial to modern
@@ -121,7 +130,7 @@
 >```
 
 > [!example]- Store
-69.00 [(0.4&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia\69 China\69.00>)
+69.00 [(0.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\60-69 Asia\69 China\69.00>)
 
 ---
 ## 70-79 Russia [(2'270&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\70-79 Russia>)
@@ -176,10 +185,10 @@ pie title Pie chart
 "31 Australia" : 173.8
 "49 Argentia" : 1478.9
 "50 Rhodesia" : 204.4
-"69 China" : 0.4
+"69 China" : 0.6
 "70 Karelia" : 914.4
 "71 Belgorod Oblast" : 1270.5
 "75 Zabaykalsky Krai" : 85.5
 ```
 ---
-![](index.jpg>)
+![](index.jpg)
