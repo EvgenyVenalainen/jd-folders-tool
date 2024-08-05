@@ -1,6 +1,6 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(26'889&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+# <span style="color:green">Johnny.Decimal</span> [(26'891&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
 ---
-## 10-19 North America [(1'808&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
+## 10-19 North America [(1'807&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
 > [!info]- Point
 > [[10-19 North America/11 USA/11.00/readme|readme>>]]
@@ -9,15 +9,21 @@
 
 > [!example]- Store
 11.00 [(3.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.00>)
-**11.10 ■ East Coast**
+*11.10 ■ East Coast*
 11.11 New York [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.11 New York>)
 11.12 Chicago [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.12 Chicago>)
 11.13 Philadelphia [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.13 Philadelphia>)
 11.14 Seattle [(1'496.9&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.14 Seattle>)
 
+> [!quote]- Notes
+> [[10-19 North America/11 USA/11.14 Seattle/views.md|views.md>>]]
+
 ### 12 Canada [(258&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada>)
 > [!example]- Store
 12.00 Quebec [(258.7&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\12 Canada\12.00 Quebec>)
+
+> [!quote]- Notes
+> [[10-19 North America/12 Canada/12.00 Quebec/readme.md|readme.md>>]]
 
 ### 13 Cuba [(14&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba>)
 > [!tip]- Look
@@ -26,15 +32,21 @@
 > [!example]- Store
 13.00 [(14.8&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\13 Cuba\13.00>)
 
-### 14 Mexico [(35&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico>)
+### 14 Mexico [(34&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico>)
 > [!example]- Store
-14.01 Teotihuacan [(35.2&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico\14.01 Teotihuacan>)
+14.01 Teotihuacan [(34.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\14 Mexico\14.01 Teotihuacan>)
+
+> [!quote]- Notes
+> [[10-19 North America/14 Mexico/14.01 Teotihuacan/Etymology.md|Etymology.md>>]]
 
 ---
-## 20-29 Europe [(2'690&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
+## 20-29 Europe [(2'689&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
 ### 20 England [(674&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
 > [!example]- Store
-20.15 Bristol [(674.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
+20.15 Bristol [(674.4&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
+
+> [!quote]- Notes
+> [[20-29 Europe/20 England/20.15 Bristol/15 марта 1898 года.md|15 марта 1898 года.md>>]]
 
 ### 21 Turkey [(1'699&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
 > [!tip]- Look
@@ -73,7 +85,10 @@
 
 ### 22 Greece [(315&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece>)
 > [!example]- Store
-22.00 Thessaloniki [(315.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece\22.00 Thessaloniki>)
+22.00 Thessaloniki [(315.7&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece\22.00 Thessaloniki>)
+
+> [!quote]- Notes
+> [[20-29 Europe/22 Greece/22.00 Thessaloniki/views.md|views.md>>]]
 
 ---
 ## 30-39 Australasia [(173&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\30-39 Australasia>)
@@ -160,7 +175,7 @@
 11 USA, 1500
 12 Canada, 258
 13 Cuba, 14
-14 Mexico, 35
+14 Mexico, 34
 20 England, 674
 21 Turkey, 1699
 22 Greece, 315
@@ -176,13 +191,13 @@
 
 ```mermaid
 pie title Pie chart
-"11 USA" : 1500.1
+"11 USA" : 1500.2
 "12 Canada" : 258.7
 "13 Cuba" : 14.8
-"14 Mexico" : 35.2
-"20 England" : 674.6
+"14 Mexico" : 34.3
+"20 England" : 674.4
 "21 Turkey" : 1699.8
-"22 Greece" : 315.6
+"22 Greece" : 315.7
 "31 Australia" : 173.8
 "49 Argentia" : 1478.9
 "50 Rhodesia" : 204.4

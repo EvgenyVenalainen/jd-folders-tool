@@ -11,12 +11,8 @@
             "id": "75e9177c6131554b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,32 +140,43 @@
   },
   "active": "75e9177c6131554b",
   "lastOpenFiles": [
+    "2europe/10England/15Bristol/15 марта 1898 года — копия — копия.md",
+    "2europe/10England/15Bristol/15 марта 1898 года.md",
+    "2europe/10England/15Bristol/15 марта 1898 года — копия.md",
+    "index.md",
+    "70      russia/31   Belgorod Oblast/20Stary Oskol/Старый_Оскол_ул_Курская_1893.jpg",
     "70      russia/75Zabaykalsky Krai/12Chita/Коллаж_Чита.jpg",
+    "70      russia/31   Belgorod Oblast/20Stary Oskol/Список_городов_Свидригайла-_Оскол.jpg",
+    "70      russia/31   Belgorod Oblast/20Stary Oskol/Ziemie_Czernihowsko-Siewierskie_w_XV_wieku.jpg",
+    "70      russia/31   Belgorod Oblast/20Stary Oskol/RR5714-0035R.jpg",
+    "70      russia/31   Belgorod Oblast/10 Belgorod/Общий_вид_старого_Белгорода.jpg",
+    "70      russia/31   Belgorod Oblast/10 Belgorod/Белгородская_крепость.jpg",
+    "70      russia/31   Belgorod Oblast/10 Belgorod/RR5514-0039R.png",
+    "70      russia/31   Belgorod Oblast/10 Belgorod/RR5111-0024R_1000-летие_основания_г._Белгорода.gif",
+    "70      russia/31   Belgorod Oblast/10 Belgorod/220px-RR5714-0002R.png",
+    "70      russia/10karelia/2Kem'/О, я, я, Кемска волость.mp4",
     "70      russia/75Zabaykalsky Krai/12Chita",
+    "70      russia/31   Belgorod Oblast/20Stary Oskol",
+    "70      russia/31   Belgorod Oblast/10 Belgorod",
     "70      russia/10karelia/88.1Kondopoga",
     "70      russia/10karelia/66.55Olonets",
     "70      russia/10karelia/33Petrozavodsk",
     "70      russia/10karelia/2Kem'",
     "70      russia/75Zabaykalsky Krai",
     "70      russia/31   Belgorod Oblast",
-    "70      russia/10karelia",
-    "70      russia",
-    "61-65Asia",
-    "2europe/32   greece/0Thessaloniki/Thessalonica_Montage_L.jpg",
-    "2europe/1turkey/1Istanbul/Turkey-3019_-_Hagia_Sophia_(2216460729).jpg",
-    "2europe/1turkey/1Istanbul/The Bagcilar district of Istanbul.jpg",
-    "2europe/1turkey/1Istanbul/Istanbul_and_Bosporus_big.jpg",
-    "2europe/1turkey/1Istanbul/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
-    "2europe/1turkey/12ankara/Ankara_Montage_2020.jpg",
-    "2europe/1turkey/0/Герб_Стамбула.jpg",
+    "61-65Asia/99 China/00/tempus.md",
+    "61-65Asia/99 China/00/nimbus.md",
+    "2europe/32   greece/0Thessaloniki/views.md",
     "2europe/1turkey/0/tempus.md",
     "2europe/1turkey/0/readme.md",
-    "2europe/1turkey/0/Flag_of_Turkey.svg.png",
-    "1      north America/2Canada/11.00 Quebec/Quebec_City_Montage.png",
-    "1      north America/21     USA/45.14Seattle/Seattle_Collage_White.jpg",
+    "1      north America/4     mexico/1Teotihuacan/Etymology.md",
+    "1      north America/21     USA/0/readme.md",
+    "20-29 Europe/20 England/20.15 Bristol/15 марта 1898 года.md",
+    "10-19 North America/14 Mexico/14.01 Teotihuacan/Etymology.md",
+    "10-19 North America/11 USA/11.00/readme.md",
+    "[.md",
     "20-29 Europe/21TURK~1/21.00/tempus.md",
     "20-29 Europe/21 Turkey/21.00/readme.md",
-    "index.md",
     "2europe/1turkey/0/index.md"
   ]
 }
