@@ -9,6 +9,7 @@
 
 > [!example]- Store
 11.00 [(3.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.00>)
+**11.10 ■ East Coast**
 11.11 New York [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.11 New York>)
 11.12 Chicago [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.12 Chicago>)
 11.13 Philadelphia [(0.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA\11.13 Philadelphia>)
