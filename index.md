@@ -1,4 +1,4 @@
-# <span style="color:green">Johnny.Decimal</span> [(26'891&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(26'891&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
 ---
 ## 10-19 North America [(1'807&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -208,3 +208,5 @@ pie title Pie chart
 ```
 ---
 ![](index.jpg)
+
+- [x] *This file was created in 5 seconds.*
