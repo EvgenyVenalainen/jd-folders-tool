@@ -1,4 +1,4 @@
-﻿# <span style="color:green">Johnny.Decimal</span> [(26'891&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span>
+﻿# <span style="color:green">Johnny.Decimal</span> [(28'567&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal>) <span style="color:red">A7</span>/<span style="color:blue">C14</span> [[hystory.md|📜]]
 ---
 ## 10-19 North America [(1'807&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America>)
 ### 11 USA [(1'500&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\10-19 North America\11 USA>)
@@ -40,7 +40,7 @@
 > [[10-19 North America/14 Mexico/14.01 Teotihuacan/Etymology.md|Etymology.md>>]]
 
 ---
-## 20-29 Europe [(2'689&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
+## 20-29 Europe [(3'529&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe>)
 ### 20 England [(674&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England>)
 > [!example]- Store
 20.15 Bristol [(674.4&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\20 England\20.15 Bristol>)
@@ -48,7 +48,7 @@
 > [!quote]- Notes
 > [[20-29 Europe/20 England/20.15 Bristol/15 марта 1898 года.md|15 марта 1898 года.md>>]]
 
-### 21 Turkey [(1'699&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
+### 21 Turkey [(2'539&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey>)
 > [!tip]- Look
 ![](<20-29 Europe/21 Turkey/21.00/Flag_of_Turkey.svg.png>)&nbsp;![](<20-29 Europe/21 Turkey/21.00/Герб_Стамбула.jpg>)&nbsp;
 
@@ -82,6 +82,7 @@
 21.00 [(9.3&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.00>)
 21.01 Istanbul [(1'305.9&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.01 Istanbul>)
 21.12 Ankara [(384.6&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.12 Ankara>)
+21.20 Trabzon [(840.0&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\21 Turkey\21.20 Trabzon>)
 
 ### 22 Greece [(315&nbsp;KB)](<file:///C:\Users\Evgeny\Documents\AutoHotkey\Johnny.Decimal\20-29 Europe\22 Greece>)
 > [!example]- Store
@@ -177,7 +178,7 @@
 13 Cuba, 14
 14 Mexico, 34
 20 England, 674
-21 Turkey, 1699
+21 Turkey, 2539
 22 Greece, 315
 31 Australia, 173
 49 Argentia, 1478
@@ -196,7 +197,7 @@ pie title Pie chart
 "13 Cuba" : 14.8
 "14 Mexico" : 34.3
 "20 England" : 674.4
-"21 Turkey" : 1699.8
+"21 Turkey" : 2539.9
 "22 Greece" : 315.7
 "31 Australia" : 173.8
 "49 Argentia" : 1478.9
@@ -209,4 +210,4 @@ pie title Pie chart
 ---
 ![](index.jpg)
 
-- [x] *This file was created in 5 seconds.*
+*This file was created in 5 seconds.*
