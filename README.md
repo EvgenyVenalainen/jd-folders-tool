@@ -32,4 +32,4 @@ The [Obsidian](https://obsidian.md/) application with [TinyChart](https://github
 
 ## A demo video
 
-https://youtu.be/NCQlNadQBzU
+[The automatically generated index md file for JD structure inside PARA viewed by Obsidian](https://youtu.be/NCQlNadQBzU)
