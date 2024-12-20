@@ -17,9 +17,9 @@ This application was intended to quickly change a number in the folder names acc
 
 ## Index file
 
-**Index.md** will be automatically generated in the root folder or inside **.\Obsidian Vault** subfolder in case it persists inside the root one.
+**Index.md** will be automatically generated in the root folder.
 
-
+N.B. In case you are using Obsidian, always close the opened vault before starting Johnny.Decimal.exe because Obsidian can lock the opened index.md file for writing by side applications.
 
 ![Index.md](3index.png)
 
